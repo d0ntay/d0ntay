@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dante! <br/><a href="https://github.com/d0ntay">Network Engineer</a>, <a href="https://www.linkedin.com/in/dantecicciarelli/">Programmer</a>,<a>and Cyber Security Professional</a>
+<h1>Hi, I'm Dante! <br/><p>Network Engineer</p>, <p>Programmer</p>,<p>and Cyber Security Professional</p>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
