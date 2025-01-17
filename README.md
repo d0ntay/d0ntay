@@ -1,4 +1,4 @@
-<h1>Hi, I'm Dante! <br/><a>Network Engineer</a>, <a>Programmer</a>,<a>Cyber Security Professional</a>
+<h1>Hi, I'm Dante! <br/><a>Network Engineer</a>, <a> Programmer</a>,<a> and Cyber Security Professional</a>
 
 <h2>👨‍💻 Software Development Projects:</h2>
 
