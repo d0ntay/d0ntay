@@ -2,8 +2,8 @@
 
 <h2>👨‍💻 Software Development Projects</h2>
 - <b>Python</b>
-  - [Network scanner & Protocol analyzer in Python](https://github.com/d0ntay/nbully)
-  - [URL enumerator made with c++](https://github.com/d0ntay/url-finder)
+  - <a>[Network scanner & Protocol analyzer in Python](https://github.com/d0ntay/nbully)</a>
+  - <a>[URL enumerator made with c++](https://github.com/d0ntay/url-finder)</a>
 
 <h2>📺 Netowrking Labs</h2>
 - [Network automation scripts in python with DNAC API](https://github.com/d0ntay/CiscoDevNet)
