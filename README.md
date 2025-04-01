@@ -1,9 +1,8 @@
 <h1>Hi, I'm Dante! <br/><a>Network Engineer</a>, <a> Programmer</a>,<a> and Cyber Security Professional</a></h1>
 
 <h2>👨‍💻 Software Development Projects</h2>
-- <b>Python</b>
-  - <p>[Network scanner & Protocol analyzer in Python](https://github.com/d0ntay/nbully)</p>
-  - <p>[URL enumerator made with c++](https://github.com/d0ntay/url-finder)</p>
+- <p>[Network scanner & Protocol analyzer in Python](https://github.com/d0ntay/nbully)</p>
+- <p>[URL enumerator made with c++](https://github.com/d0ntay/url-finder)</p>
 
 <h2>📺 Netowrking Labs</h2>
 - [Network automation scripts in python with DNAC API](https://github.com/d0ntay/CiscoDevNet)
