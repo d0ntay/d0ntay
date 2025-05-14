@@ -1,7 +1,7 @@
 <h1>Hi, I'm Dante! <br/><a>DevOps</a>, <a> Networking</a>,<a> and Programming</a></h1>
 
 <h2>👾 DevOps Projects</h2>
-
+- [K8s lab, deployed an app using helm charts and gitops with argocd] (https://github.com/d0ntay/k8sdev)
 <h2>📺 Netowrking Automation</h2>
 - [Network automation scripts in python with DNAC API](https://github.com/d0ntay/CiscoDevNet)
 
