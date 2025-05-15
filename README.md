@@ -2,6 +2,7 @@
 
 <h2>👾 DevOps Projects</h2>
 - K8s lab, deployed an app using helm charts and gitops with argocd (https://github.com/d0ntay/k8sdev)
+- Bash automation scripts (https://github.com/d0ntay/bashscripts)
 <h2>📺 Netowrking Automation</h2>
 - Network automation scripts in python with DNAC API (https://github.com/d0ntay/CiscoDevNet)
 
