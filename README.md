@@ -1,7 +1,8 @@
 <h1>Hi, I'm Dante! <br/><a>DevOps</a>, <a> Networking</a>,<a> and Programming</a></h1>
 
 <h2>👾 DevOps Projects</h2>
-<p>- K8s lab, deployed an app using helm charts and gitops with argocd (https://github.com/d0ntay/k8sdev)</p>
+<p>- Kubernetes labs (https://github.com/d0ntay/k8sdev)</p>
+<p>- Terraform labs (https://github.com/d0ntay/terraform-labs)</p>
 <p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
 
 <h2>📺 Netowrking Automation</h2>
