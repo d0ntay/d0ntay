@@ -5,7 +5,7 @@
 <p>- Terraform labs (https://github.com/d0ntay/terraform-labs)</p>
 <p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
 
-<h2>📺 Netowrking Automation</h2>
+<h2>📺 Network Automation</h2>
 - Network automation scripts in python with DNAC API (https://github.com/d0ntay/CiscoDevNet)
 
 <h2>👨‍💻 Software Development Projects</h2>
