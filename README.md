@@ -7,8 +7,8 @@
 <p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
 
 <h2>📺 Network Automation</h2>
-- Network automation scripts in python with DNAC API (https://github.com/d0ntay/CiscoDNAC_Automation)
-- Automation Scripts using solarwinds Orion SDK (https://github.com/d0ntay/Solarwinds_automation)
+<p>- Network automation scripts in python with DNAC API (https://github.com/d0ntay/CiscoDNAC_Automation)</p>
+<p>- Automation Scripts using solarwinds Orion SDK (https://github.com/d0ntay/Solarwinds_automation)</p>
 
 <h2>👨‍💻 Software Development</h2>
  <p>- Network scanner & Protocol analyzer in Python (https://github.com/d0ntay/nbully)</p>
