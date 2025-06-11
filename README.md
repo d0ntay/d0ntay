@@ -7,6 +7,7 @@
 <p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
 
 <h2>📺 Network Automation</h2>
+<p>- Multi-Vendor automation scripts in python using netmiko and jinja2 (https://github.com/d0ntay/netauto_scripts)</p>
 <p>- Network automation scripts in python with DNAC API (https://github.com/d0ntay/CiscoDNAC_Automation)</p>
 <p>- Automation Scripts using solarwinds Orion SDK (https://github.com/d0ntay/Solarwinds_automation)</p>
 
