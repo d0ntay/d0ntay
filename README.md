@@ -17,3 +17,7 @@
 
 <h2>📱 Connect with me</h2>
 <img align="left" alt="dante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <h3><a href="https://www.linkedin.com/in/dantecicciarelli/">Linkedin</a></h3>
+
+
+
+![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ntay)
