@@ -20,5 +20,5 @@
 
 
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ntay)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=d0ntay&size_weight=0.5&count_weight=0.5)](https://github.com/anuraghazra/github-readme-stats)
 
