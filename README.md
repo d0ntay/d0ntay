@@ -20,4 +20,4 @@
 
 
 
-![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ntay)
+![Dante's GitHub stats](https://github-readme-stats.vercel.app/api?username=d0ntay&show_icons=true&theme=dracula)
