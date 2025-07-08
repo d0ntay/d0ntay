@@ -1,4 +1,5 @@
 <h1>Hi, I'm Dante! <br/><a>DevOps</a>, <a> Networking</a>,<a> and Programming</a></h1>
+<h2>Message me if you would like access to any of my projects</h2>
 
 <h2>👾 DevOps</h2>
 <p>- DevOps Projects (https://github.com/d0ntay/devops-projects)</p>
