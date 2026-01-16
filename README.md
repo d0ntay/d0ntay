@@ -1,4 +1,3 @@
-<h1>ALL PROJECTS ARE CURRENTLY PRIVATE</h1>
 <h1>Hi, I'm Dante! <br/><a>DevOps</a>, <a> Networking</a>,<a> and Programming</a></h1>
 
 <h2>👾 DevOps</h2>
