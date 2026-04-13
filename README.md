@@ -1,19 +1,60 @@
-<h1>Hi, I'm Dante! <br/><a>Network Automation</a>, <a>Devops</a>,<a> and Programming</a></h1>
+# Dante Cicciarelli — Network Automation Engineer
 
-<h2>📺 Network Automation</h2>
-<p>- General Network Automation Scripts (https://github.com/d0ntay/netauto_scripts)</p>
-<p>- Network Automation Scripts using DNAC API (https://github.com/d0ntay/CiscoDNAC_Automation)</p>
-<p>- Automation Scripts using solarwinds Orion SDK (https://github.com/d0ntay/Solarwinds_automation)</p>
+I build systems that replace manual network operations with automated, validated, auditable workflows. My focus is on multi-vendor configuration management, intent-driven networking, and integrating network infrastructure with modern DevOps tooling.
 
-<h2>👾 DevOps</h2>
-<p>- Kubernetes labs (https://github.com/d0ntay/k8sdev)</p>
-<p>- Terraform labs (https://github.com/d0ntay/terraform-labs)</p>
-<p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
+---
 
-<h2>👨‍💻 Software Development</h2>
- <p>- HTTP 1.0 server made from scratch with Go (https://github.com/d0ntay/go-http1.0)</p>
- <p>- CMD line wrapper for Ollama developed in Go (https://github.com/d0ntay/gollama)</p>
- <p>- Network scanner & Protocol analyzer in Python (https://github.com/d0ntay/nbully)</p>
+### Featured Project
 
-<h2>📱 Connect with me</h2>
-<img align="left" alt="dante | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" /> <h3><a href="https://www.linkedin.com/in/dantecicciarelli/">Linkedin</a></h3>
+**[NetAuto — Network Automation Platform](https://github.com/d0ntay/netauto-system)**
+
+A production platform that consolidates network inventory, configuration management, change control, and job execution into a single system. Engineers interact with the network exclusively through the dashboard — no direct device access, no untracked changes.
+
+- Intent-driven config management (OpenConfig YAML in Git)
+- Multi-vendor support (Juniper, Cisco, Arista) through templated abstraction
+- Automated change pipeline: ServiceNow validation, Ansible execution, post-change verification, auto-rollback
+- Drift detection comparing Git intents against live device configs
+- Role-based access control across NOC and engineering tiers
+- Built with: FastAPI, React, Nautobot, Ansible AWX, ServiceNow, Redis, NETCONF
+
+---
+
+### Other Projects
+
+**[netauto_scripts](https://github.com/d0ntay/netauto_scripts)** — Collection of network automation utilities built with Netmiko and Jinja2. Config backup, templated config deployment with concurrent execution, OSPF health checks, SSH connectivity validation. Multi-vendor (Cisco IOS, Juniper).
+
+**[CiscoDNAC_Automation](https://github.com/d0ntay/CiscoDNAC_Automation)** — CLI command execution and BGP data extraction through the Cisco DNA Center REST API. Token-based auth, async task polling, structured output parsing.
+
+**[Solarwinds_Automation](https://github.com/d0ntay/Solarwinds_Automation)** — Bulk device onboarding and interface discovery for SolarWinds Orion NPM using the Orion SDK. SNMPv3 provisioning, node import from JSON, automated interface discovery.
+
+---
+
+### Certifications
+
+| Certification | Issuer |
+|--------------|--------|
+| CCNA Enterprise | Cisco |
+| Cisco Certified DevNet Associate | Cisco |
+| JNCIA | Juniper Networks |
+| Security+ | CompTIA |
+| A+ | CompTIA |
+
+---
+
+### Tools & Technologies
+
+**Automation:** Python, Ansible, Jinja2, Netmiko, NAPALM, ncclient
+
+**Protocols:** NETCONF, SSH, SNMP, REST APIs, gRPC
+
+**Platforms:** Cisco IOS/IOS-XR, Junos, Arista EOS, Palo Alto
+
+**Infrastructure:** Nautobot, Ansible AWX, SolarWinds, Cisco DNA Center
+
+**Development:** FastAPI, React, TypeScript, Git, Docker, Kubernetes, Redis
+
+---
+
+### Contact
+
+[LinkedIn](https://www.linkedin.com/in/dantecicciarelli/)
