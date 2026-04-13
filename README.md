@@ -33,8 +33,8 @@ A production platform that consolidates network inventory, configuration managem
 
 | Certification | Issuer |
 |--------------|--------|
-| [CCNA Enterprise](https://www.credly.com/badges/4319095d-ff05-4e82-935f-fdec9b3c6f98/public_url) | Cisco |
-| [Cisco Certified DevNet Associate](https://www.credly.com/badges/05e1c191-cbd8-4c53-91ca-67c18554218b/public_url) | Cisco |
+| [CCNA](https://www.credly.com/badges/4319095d-ff05-4e82-935f-fdec9b3c6f98/public_url) | Cisco |
+| [CCNA Automation](https://www.credly.com/badges/05e1c191-cbd8-4c53-91ca-67c18554218b/public_url) | Cisco |
 | [JNCIA](https://www.credly.com/badges/38b45ed4-71b1-40f4-b157-f245302f6bc4/public_url) | Juniper Networks |
 | [Security+](https://www.credly.com/badges/01a94f78-4379-4855-8834-379a52730b73/public_url) | CompTIA |
 | [A+](https://www.credly.com/badges/404e23e9-3a54-4396-827f-2103f90c988a/public_url) | CompTIA |
