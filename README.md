@@ -1,14 +1,14 @@
-<h1>Hi, I'm Dante! <br/><a>DevOps</a>, <a> Networking</a>,<a> and Programming</a></h1>
-
-<h2>👾 DevOps</h2>
-<p>- Kubernetes labs (https://github.com/d0ntay/k8sdev)</p>
-<p>- Terraform labs (https://github.com/d0ntay/terraform-labs)</p>
-<p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
+<h1>Hi, I'm Dante! <br/><a>Network Automation</a>, <a>Devops</a>,<a> and Programming</a></h1>
 
 <h2>📺 Network Automation</h2>
 <p>- General Network Automation Scripts (https://github.com/d0ntay/netauto_scripts)</p>
 <p>- Network Automation Scripts using DNAC API (https://github.com/d0ntay/CiscoDNAC_Automation)</p>
 <p>- Automation Scripts using solarwinds Orion SDK (https://github.com/d0ntay/Solarwinds_automation)</p>
+
+<h2>👾 DevOps</h2>
+<p>- Kubernetes labs (https://github.com/d0ntay/k8sdev)</p>
+<p>- Terraform labs (https://github.com/d0ntay/terraform-labs)</p>
+<p>- Bash automation scripts (https://github.com/d0ntay/bashscripts)</p>
 
 <h2>👨‍💻 Software Development</h2>
  <p>- HTTP 1.0 server made from scratch with Go (https://github.com/d0ntay/go-http1.0)</p>
