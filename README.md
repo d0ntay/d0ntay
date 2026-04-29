@@ -43,15 +43,15 @@ A production platform that consolidates network inventory, configuration managem
 
 ### Tools & Technologies
 
-**Automation:** Python, Ansible, Jinja2, Netmiko, NAPALM, ncclient
+**Automation:** Python, Nautobot, Ansible, Jinja2, Netmiko, NAPALM, ncclient
 
 **Protocols:** NETCONF, SSH, SNMP, REST APIs, gRPC
 
 **Platforms:** Cisco IOS/IOS-XR, Junos, Arista EOS, Palo Alto
 
-**Infrastructure:** Nautobot, Ansible AWX, SolarWinds, Cisco DNA Center
+**Devops:**  Kubernetes, Docker, Terraform
 
-**Development:** FastAPI, React, TypeScript, Git, Docker, Kubernetes, Redis
+**Development:** Django, FastAPI, Git, Redis
 
 ---
 
