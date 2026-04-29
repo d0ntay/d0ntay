@@ -6,7 +6,7 @@ I build systems that replace manual network operations with automated, validated
 
 ### Featured Project
 
-**[Nauto - Network Automation Platform](https://github.com/d0ntay/nauto)**
+**[netauto - Network Automation Platform](https://github.com/d0ntay/netauto-system)**
 
 A production platform that consolidates network inventory, configuration management, change control, and job execution into a single system. Engineers interact with the network exclusively through the dashboard — no direct device access, no untracked changes.
 
