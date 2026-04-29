@@ -6,11 +6,11 @@ I build systems that replace manual network operations with automated, validated
 
 ### Featured Project
 
-**[NetAuto — Network Automation Platform](https://github.com/d0ntay/netauto-system)**
+**[Nauto - Network Automation Platform](https://github.com/d0ntay/nauto)**
 
 A production platform that consolidates network inventory, configuration management, change control, and job execution into a single system. Engineers interact with the network exclusively through the dashboard — no direct device access, no untracked changes.
 
-- Intent-driven config management (OpenConfig YAML in Git)
+- Intent-driven config management
 - Multi-vendor support (Juniper, Cisco, Arista) through templated abstraction
 - Automated change pipeline: ServiceNow validation, Ansible execution, post-change verification, auto-rollback
 - Drift detection comparing Git intents against live device configs
